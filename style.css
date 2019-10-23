@@ -64,11 +64,11 @@ body {
     background-color: #1c1c1c;
 }
 
-.card:click .card__side--front {
+.card:hover .card__side--front {
     transform: rotateY(-180deg);
 }
 
-.card:click .card__side--back {
+.card:hover .card__side--back {
     transform: rotateY(0deg);
 }
 
