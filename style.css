@@ -36,8 +36,8 @@ body {
 
 .card {
     perspective: 150rem;
-    height: 100rem;
-    width: 100rem;
+    height: 30rem;
+    width: 30rem;
     position: relative;
 }
 
